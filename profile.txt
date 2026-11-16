@@ -4,18 +4,18 @@
 # Lines starting with # are comments and are ignored.
 # ============================================================
 
-name=Prof. Pin Luarn
+name=Gokhan Aydogan
 
-title1=Top 2% Scientist Worldwide (2020-2026)
+title1=Mr.
 
-title2=2024 National Teaching Award Laureate
+title2=bilgerobot
 
-expertise=Internet Marketing, AI Applications, Agentic AI
+expertise=Aerospace Engineer/Aircraft Technical Consultant
 
-education=Ph.D. in Industrial Engineering, University of Wisconsin-Madison, USA
+education=Aerospace Engineering, Middle East Technical University, Turkiye
 
-email=luarn@mail.ntust.edu.tw
-linkedin=https://pse.is/8nn88y
+email=gokhanaydogan1985@gmail.com
+https://www.linkedin.com/in/gokhan-aydogan-b8540745/
 
 about1=Prof. Luarn earned his B.S. in Industrial Engineering from Tunghai University,
 about2=and his M.S. and Ph.D. in Industrial Engineering from the University of Wisconsin-Madison.
