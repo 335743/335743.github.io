@@ -12,7 +12,7 @@ title2=bilgerobot
 
 expertise=Aerospace Engineer/Aircraft Technical Consultant
 
-education=Aerospace Engineering, Middle East Technical University, Turkiye
+education=BSc.Aerospace Engineering, Middle East Technical University, Turkiye
 
 email=gokhanaydogan1985@gmail.com
 https://www.linkedin.com/in/gokhan-aydogan-b8540745/
