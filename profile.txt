@@ -17,9 +17,9 @@ education=BSc.Aerospace Engineering, Middle East Technical University, Turkiye
 email=gokhanaydogan1985@gmail.com
 https://www.linkedin.com/in/gokhan-aydogan-b8540745/
 
-about1=Aerospace engineer with 13 years experience in MRO's, airlines and aircraft consultancy, worked on technical and lease aspects of aircraft and engine by inspecting records and physical asset during transitions.
-about2=Guitar player, music composer, nature lover, routine owner in gym, in the pursuit of world cuisines, long distance hiker about3=
-about4=
+about1=Aerospace engineer with 13 years experience in MRO's, airlines and aircraft consultancy, 
+about2=worked on technical and lease aspects of aircraft and engine by inspecting records and physical asset during transitions.  about3=Guitar player, music composer, nature lover,
+about4=routine owner in gym, in the pursuit of world cuisines, long distance hiker
 
 phone=
 
