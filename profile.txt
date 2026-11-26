@@ -14,7 +14,7 @@ expertise=Aerospace Engineer/Aircraft Technical Consultant
 
 education=BSc.Aerospace Engineering, Middle East Technical University, Turkiye. Aviation Leasing&Finance, Law Society of Ireland
 
-email=gokhanaydogan1985@gmail.com
+email=aydogang@hs-pforzheim.de
 https://www.linkedin.com/in/gokhan-aydogan-b8540745/
 
 about1=Aerospace engineer with 13 years experience in MRO's, airlines and aircraft consultancy, 
