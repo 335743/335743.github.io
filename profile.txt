@@ -18,7 +18,8 @@ email=gokhanaydogan1985@gmail.com
 https://www.linkedin.com/in/gokhan-aydogan-b8540745/
 
 about1=Aerospace engineer with 13 years experience in MRO's, airlines and aircraft consultancy, 
-about2=worked on technical and lease aspects of aircraft and engine by inspecting records and physical asset during transitions.  about3=Guitar player, music composer, nature lover,
+about2=worked on technical and lease aspects of aircraft and engine by inspecting records and physical asset during transitions.  
+about3=Guitar player, music composer, nature lover,
 about4=routine owner in gym, in the pursuit of world cuisines, long distance hiker
 
 phone=
